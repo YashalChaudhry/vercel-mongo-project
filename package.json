@@ -2,7 +2,7 @@
     "name": "vercel-mongo-project",
     "version": "1.0.0",
     "engines": {
-      "node": "16.x"
+      "node": "18.x"
     },
     "dependencies": {
       "mongodb": "^4.0.0",
